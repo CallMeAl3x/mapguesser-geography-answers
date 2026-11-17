@@ -1,0 +1,407 @@
+typed_place,shown_code,shown_name,answers,players
+Abu Dhabi,BHR,Bahrain,13,10
+Abu Dhabi,ARE,United Arab Emirates,9,9
+Abu Dhabi,QAT,Qatar,8,7
+Abu Dhabi,KWT,Kuwait,6,6
+Abu Dhabi,YEM,Yemen,5,5
+Abu Dhabi,SAU,Saudi Arabia,4,4
+Africa,CAF,Central African Republic,66,62
+Africa,TCD,Chad,32,29
+Africa,ZAF,South Africa,29,29
+Africa,COD,Democratic Republic of the Congo,23,18
+Africa,AGO,Angola,18,16
+Africa,SSD,South Sudan,17,16
+Africa,BWA,Botswana,16,16
+Africa,DZA,Algeria,15,14
+Africa,NER,Niger,13,13
+Africa,COG,Congo,13,13
+Africa,MAR,Morocco,12,11
+Africa,UGA,Uganda,11,11
+Africa,ZMB,Zambia,11,11
+Africa,MRT,Mauritania,10,10
+Africa,SDN,Sudan,9,9
+Africa,TUN,Tunisia,8,8
+Africa,BDI,Burundi,8,8
+Africa,GAB,Gabon,8,8
+Africa,SEN,Senegal,8,8
+Africa,BEN,Benin,7,5
+Africa,NAM,Namibia,7,7
+Africa,LBY,Libya,7,6
+Africa,EGY,Egypt,7,7
+Africa,BFA,Burkina Faso,7,7
+Africa,KEN,Kenya,6,4
+Africa,GMB,Gambia,6,5
+Africa,CIV,Ivory Coast,6,6
+Africa,RWA,Rwanda,6,6
+Africa,COM,Comoros,5,4
+Africa,GNB,Guinea-Bissau,5,5
+Africa,BRA,Brazil,5,5
+Africa,MLI,Mali,5,5
+Africa,ZWE,Zimbabwe,5,5
+Africa,ARG,Argentina,5,5
+Africa,ARE,United Arab Emirates,5,4
+Africa,SOM,Somalia,5,5
+Africa,MOZ,Mozambique,4,3
+Africa,ETH,Ethiopia,4,4
+Africa,GIN,Guinea,4,4
+Africa,SWZ,Eswatini,4,4
+Africa,VUT,Vanuatu,4,3
+Africa,TGO,Togo,3,3
+Africa,SLE,Sierra Leone,3,3
+Africa,MUS,Mauritius,3,2
+Africa,AUT,Austria,3,3
+Africa,CPV,Cape Verde,3,3
+Africa,CMR,Cameroon,3,3
+Africa,STP,São Tomé and Príncipe,3,3
+Alaska,USA,United States,6,5
+Alaska,CAN,Canada,5,5
+Alaska,ISL,Iceland,5,5
+Alaska,SJM,Svalbard and Jan Mayen,4,4
+Algiers,DZA,Algeria,23,21
+Algiers,NER,Niger,4,4
+Algiers,MLI,Mali,3,3
+Algiers,LBY,Libya,3,3
+Algiers,MRT,Mauritania,3,3
+Bali,TLS,Timor-Leste,28,28
+Bali,BRN,Brunei,24,23
+Bali,SGP,Singapore,20,20
+Bali,MYS,Malaysia,18,17
+Bali,MDV,Maldives,15,14
+Bali,PLW,Palau,13,13
+Bali,HTI,Haiti,9,9
+Bali,PHL,Philippines,9,9
+Bali,JAM,Jamaica,8,8
+Bali,PNG,Papua New Guinea,7,7
+Bali,VUT,Vanuatu,7,6
+Bali,ATG,Antigua and Barbuda,7,7
+Bali,IDN,Indonesia,6,6
+Bali,NRU,Nauru,6,6
+Bali,FJI,Fiji,6,6
+Bali,VNM,Vietnam,6,6
+Bali,KHM,Cambodia,6,6
+Bali,SLB,Solomon Islands,5,5
+Bali,KIR,Kiribati,5,5
+Bali,TON,Tonga,5,5
+Bali,VCT,Saint Vincent and the Grenadines,5,5
+Bali,TUV,Tuvalu,5,5
+Bali,FSM,Micronesia,5,5
+Bali,DOM,Dominican Republic,5,5
+Bali,WSM,Samoa,4,4
+Bali,LAO,Laos,4,4
+Bali,BRB,Barbados,3,3
+Bali,SLE,Sierra Leone,3,3
+Bali,STP,São Tomé and Príncipe,3,3
+Bali,SYC,Seychelles,3,3
+Bali,NZL,New Zealand,3,3
+Bali,MUS,Mauritius,3,3
+Bali,MMR,Myanmar,3,3
+Bali,MLT,Malta,3,3
+Bali,MLI,Mali,3,3
+Bali,LKA,Sri Lanka,3,3
+Bali,LCA,Saint Lucia,3,3
+Bern,CHE,Switzerland,9,8
+Bern,LIE,Liechtenstein,9,7
+Bora Bora,WSM,Samoa,8,6
+Bora Bora,TON,Tonga,7,7
+Bora Bora,FSM,Micronesia,5,5
+Bora Bora,KIR,Kiribati,5,4
+Bora Bora,VCT,Saint Vincent and the Grenadines,4,4
+Bora Bora,NRU,Nauru,3,3
+Bora Bora,SLB,Solomon Islands,3,3
+Bora Bora,BHS,Bahamas,3,3
+Bora Bora,FJI,Fiji,3,3
+Bora Bora,MDV,Maldives,3,3
+Bora Bora,MHL,Marshall Islands,3,3
+Bora Bora,MLT,Malta,3,3
+Bora Bora,MUS,Mauritius,3,3
+Borneo,BRN,Brunei,13,12
+Borneo,PNG,Papua New Guinea,6,5
+Borneo,TLS,Timor-Leste,6,6
+Borneo,PLW,Palau,3,2
+Caribbean,BHS,Bahamas,93,84
+Caribbean,CUB,Cuba,42,39
+Caribbean,ATG,Antigua and Barbuda,17,16
+Caribbean,JAM,Jamaica,14,13
+Caribbean,LCA,Saint Lucia,12,12
+Caribbean,DOM,Dominican Republic,11,11
+Caribbean,TTO,Trinidad and Tobago,11,11
+Caribbean,KNA,Saint Kitts and Nevis,11,11
+Caribbean,HTI,Haiti,10,10
+Caribbean,BRB,Barbados,9,8
+Caribbean,VCT,Saint Vincent and the Grenadines,8,7
+Caribbean,DMA,Dominica,8,8
+Caribbean,GRD,Grenada,7,7
+Caribbean,CPV,Cape Verde,6,6
+Caribbean,SOM,Somalia,6,6
+Caribbean,MHL,Marshall Islands,4,4
+Caribbean,NIC,Nicaragua,4,4
+Caribbean,NZL,New Zealand,4,4
+Caribbean,WSM,Samoa,4,4
+Caribbean,SLB,Solomon Islands,3,3
+Caribbean,MLT,Malta,3,3
+Caribbean,SYC,Seychelles,3,3
+Caribbean,FJI,Fiji,3,3
+Caribbean,CRI,Costa Rica,3,3
+Caribbean,PYF,French Polynesia,3,3
+Crete,CYP,Cyprus,22,21
+Crete,MLT,Malta,17,14
+Crete,ALB,Albania,7,7
+Crete,MNE,Montenegro,7,7
+Crete,MKD,North Macedonia,5,5
+Crete,BIH,Bosnia and Herzegovina,4,4
+Crete,SVN,Slovenia,4,3
+Crete,HRV,Croatia,3,2
+Doha,BHR,Bahrain,8,8
+Doha,QAT,Qatar,6,4
+Dubai,ARE,United Arab Emirates,116,113
+Dubai,QAT,Qatar,108,100
+Dubai,BHR,Bahrain,93,79
+Dubai,KWT,Kuwait,38,36
+Dubai,OMN,Oman,27,27
+Dubai,SAU,Saudi Arabia,22,21
+Dubai,IRQ,Iraq,20,20
+Dubai,YEM,Yemen,16,16
+Dubai,IRN,Iran,15,14
+Dubai,JOR,Jordan,10,9
+Dubai,SYR,Syria,6,6
+Dubai,LBN,Lebanon,6,6
+Dubai,TUR,Turkey,5,5
+Dubai,DJI,Djibouti,5,5
+Dubai,AZE,Azerbaijan,5,5
+Dubai,LKA,Sri Lanka,5,4
+Dubai,SDN,Sudan,5,5
+Dubai,ISR,Israel,4,4
+Dubai,EGY,Egypt,4,4
+Dubai,ARM,Armenia,4,4
+Dubai,GRC,Greece,3,3
+Easter Island,TON,Tonga,43,38
+Easter Island,WSM,Samoa,34,29
+Easter Island,KIR,Kiribati,34,29
+Easter Island,PCN,Pitcairn,10,9
+Easter Island,NRU,Nauru,8,8
+Easter Island,FSM,Micronesia,8,8
+Easter Island,TUV,Tuvalu,8,8
+Easter Island,MDV,Maldives,7,7
+Easter Island,FJI,Fiji,5,5
+Easter Island,TKL,Tokelau,5,5
+Easter Island,COK,Cook Islands,5,5
+Easter Island,ATF,French Southern Territories,4,4
+Easter Island,VUT,Vanuatu,4,4
+Easter Island,WLF,Wallis and Futuna,4,4
+Easter Island,MUS,Mauritius,4,4
+Easter Island,MHL,Marshall Islands,3,2
+Easter Island,NIU,Niue,3,3
+Easter Island,CCK,Cocos Islands,3,3
+Easter Island,PYF,French Polynesia,3,3
+Easter Island,SLB,Solomon Islands,3,3
+Easter Island,SYC,Seychelles,3,3
+Galapagos,WSM,Samoa,11,10
+Galapagos,KIR,Kiribati,8,8
+Galapagos,TON,Tonga,8,7
+Galapagos,ECU,Ecuador,3,3
+Galapagos,NRU,Nauru,3,3
+Hawaii,KIR,Kiribati,303,246
+Hawaii,WSM,Samoa,296,242
+Hawaii,TON,Tonga,232,193
+Hawaii,BHS,Bahamas,64,49
+Hawaii,HTI,Haiti,47,39
+Hawaii,JAM,Jamaica,39,35
+Hawaii,CUB,Cuba,38,32
+Hawaii,FSM,Micronesia,33,28
+Hawaii,DOM,Dominican Republic,32,28
+Hawaii,KNA,Saint Kitts and Nevis,31,29
+Hawaii,NRU,Nauru,29,25
+Hawaii,MHL,Marshall Islands,28,24
+Hawaii,LCA,Saint Lucia,28,27
+Hawaii,ATG,Antigua and Barbuda,28,23
+Hawaii,BRB,Barbados,25,24
+Hawaii,PLW,Palau,22,19
+Hawaii,TUV,Tuvalu,21,20
+Hawaii,DMA,Dominica,20,19
+Hawaii,FJI,Fiji,20,18
+Hawaii,NIU,Niue,18,16
+Hawaii,ASM,American Samoa,18,14
+Hawaii,SYC,Seychelles,17,15
+Hawaii,GRD,Grenada,17,15
+Hawaii,ISL,Iceland,17,14
+Hawaii,UMI,U.S. Minor Outlying Islands,17,15
+Hawaii,CPV,Cape Verde,16,13
+Hawaii,TTO,Trinidad and Tobago,15,13
+Hawaii,WLF,Wallis and Futuna,14,14
+Hawaii,VUT,Vanuatu,14,13
+Hawaii,VCT,Saint Vincent and the Grenadines,14,14
+Hawaii,MDV,Maldives,14,12
+Hawaii,COK,Cook Islands,12,11
+Hawaii,PYF,French Polynesia,11,9
+Hawaii,SLB,Solomon Islands,8,8
+Hawaii,SGP,Singapore,8,7
+Hawaii,NZL,New Zealand,7,6
+Hawaii,TLS,Timor-Leste,7,6
+Hawaii,BRN,Brunei,7,3
+Hawaii,TKL,Tokelau,6,6
+Hawaii,MUS,Mauritius,6,6
+Hawaii,BLZ,Belize,6,5
+Hawaii,MLT,Malta,5,5
+Hawaii,PNG,Papua New Guinea,5,5
+Hawaii,ECU,Ecuador,5,5
+Hawaii,GUM,Guam,5,5
+Hawaii,PHL,Philippines,4,4
+Hawaii,IOT,British Indian Ocean Territory,4,4
+Hawaii,MDG,Madagascar,4,4
+Hawaii,VGB,British Virgin Islands,4,3
+Hawaii,SPM,Saint Pierre and Miquelon,3,3
+Hawaii,BMU,Bermuda,3,3
+Hawaii,PRI,Puerto Rico,3,2
+Hawaii,PCN,Pitcairn,3,3
+Hawaii,PAN,Panama,3,3
+Hawaii,STP,São Tomé and Príncipe,3,3
+Hawaii,LBR,Liberia,3,3
+Jerusalem,LBN,Lebanon,18,14
+Jerusalem,JOR,Jordan,9,7
+Jerusalem,ISR,Israel,7,6
+Kurdistan,KGZ,Kyrgyzstan,21,17
+Kurdistan,TKM,Turkmenistan,18,17
+Kurdistan,ARM,Armenia,15,13
+Kurdistan,AFG,Afghanistan,12,11
+Kurdistan,TJK,Tajikistan,10,9
+Kurdistan,UZB,Uzbekistan,9,9
+Kurdistan,AZE,Azerbaijan,9,9
+Kurdistan,SYR,Syria,8,6
+Kurdistan,KAZ,Kazakhstan,6,5
+Kurdistan,GEO,Georgia,6,6
+Kurdistan,PAK,Pakistan,4,4
+Kurdistan,RWA,Rwanda,3,3
+Persia,GEO,Georgia,3,3
+Rhodesia,ZWE,Zimbabwe,6,6
+Rhodesia,BWA,Botswana,3,3
+Rome,SMR,San Marino,79,77
+Rome,VAT,Vatican City,10,10
+Rome,ROU,Romania,9,8
+Rome,ALB,Albania,8,7
+Rome,CHE,Switzerland,7,7
+Rome,ITA,Italy,6,4
+Rome,AND,Andorra,6,6
+Rome,IRQ,Iraq,5,5
+Rome,AUT,Austria,4,3
+Rome,HRV,Croatia,4,4
+Rome,BGR,Bulgaria,4,3
+Rome,MCO,Monaco,4,4
+Rome,GRC,Greece,4,4
+Rome,SVN,Slovenia,3,3
+Rome,TUR,Turkey,3,3
+Rome,DNK,Denmark,3,3
+Rome,HUN,Hungary,3,2
+Rome,LIE,Liechtenstein,3,3
+Rome,MLT,Malta,3,3
+Rome,MNE,Montenegro,3,3
+Rome,BIH,Bosnia and Herzegovina,3,3
+Sahara,MAR,Morocco,25,19
+Sahara,MRT,Mauritania,20,20
+Sahara,ESH,Western Sahara,16,15
+Sahara,NER,Niger,9,9
+Sahara,MLI,Mali,8,8
+Sahara,TCD,Chad,7,7
+Sahara,DZA,Algeria,5,5
+Sahara,TUN,Tunisia,4,4
+Sahara,SAU,Saudi Arabia,3,3
+Sahara,LBY,Libya,3,3
+Sahara,SSD,South Sudan,3,3
+Sardinia,MLT,Malta,39,36
+Sardinia,SMR,San Marino,9,8
+Sardinia,MCO,Monaco,5,5
+Sardinia,VAT,Vatican City,3,3
+Sardinia,CYP,Cyprus,3,3
+Siberia,SRB,Serbia,16,13
+Siberia,MNG,Mongolia,4,4
+Siberia,SYR,Syria,4,3
+Siberia,BGR,Bulgaria,3,3
+Siberia,MDA,Moldova,3,3
+Sicily,MLT,Malta,99,91
+Sicily,SMR,San Marino,18,18
+Sicily,MCO,Monaco,8,7
+Sicily,CYP,Cyprus,8,8
+Tahiti,WSM,Samoa,72,58
+Tahiti,KIR,Kiribati,58,50
+Tahiti,TON,Tonga,49,45
+Tahiti,HTI,Haiti,35,28
+Tahiti,DOM,Dominican Republic,29,23
+Tahiti,JAM,Jamaica,24,22
+Tahiti,FSM,Micronesia,20,17
+Tahiti,TUV,Tuvalu,16,15
+Tahiti,NRU,Nauru,15,14
+Tahiti,DMA,Dominica,14,12
+Tahiti,MHL,Marshall Islands,13,12
+Tahiti,ASM,American Samoa,12,10
+Tahiti,ATG,Antigua and Barbuda,12,11
+Tahiti,VUT,Vanuatu,11,11
+Tahiti,PLW,Palau,10,8
+Tahiti,GRD,Grenada,10,8
+Tahiti,BRB,Barbados,9,7
+Tahiti,CUB,Cuba,9,9
+Tahiti,LCA,Saint Lucia,8,6
+Tahiti,MDV,Maldives,8,7
+Tahiti,COM,Comoros,8,5
+Tahiti,VCT,Saint Vincent and the Grenadines,8,8
+Tahiti,SLB,Solomon Islands,8,8
+Tahiti,TKL,Tokelau,7,7
+Tahiti,PYF,French Polynesia,7,6
+Tahiti,WLF,Wallis and Futuna,6,6
+Tahiti,FJI,Fiji,6,6
+Tahiti,BHS,Bahamas,5,4
+Tahiti,COK,Cook Islands,5,5
+Tahiti,TTO,Trinidad and Tobago,4,4
+Tahiti,UMI,U.S. Minor Outlying Islands,4,4
+Tahiti,SYC,Seychelles,4,4
+Tahiti,MUS,Mauritius,4,4
+Tahiti,PCN,Pitcairn,3,3
+Tahiti,CYM,Cayman Islands,3,3
+Tahiti,PNG,Papua New Guinea,3,2
+Tahiti,KNA,Saint Kitts and Nevis,3,3
+Tahiti,CCK,Cocos Islands,3,3
+Tahiti,NIU,Niue,3,2
+Tahiti,TLS,Timor-Leste,3,3
+Tasmania,TZA,Tanzania,9,8
+Tasmania,VUT,Vanuatu,5,5
+Tasmania,BWA,Botswana,3,3
+Tasmania,FJI,Fiji,3,3
+Tasmania,MWI,Malawi,3,3
+Tasmania,ZMB,Zambia,3,3
+Tibet,BTN,Bhutan,83,71
+Tibet,NPL,Nepal,34,33
+Tibet,KGZ,Kyrgyzstan,23,21
+Tibet,MNG,Mongolia,16,16
+Tibet,TJK,Tajikistan,8,7
+Tibet,LAO,Laos,6,6
+Tibet,AFG,Afghanistan,6,6
+Tibet,BGD,Bangladesh,4,4
+Tibet,KAZ,Kazakhstan,4,4
+Tibet,UZB,Uzbekistan,3,3
+Tibet,BRN,Brunei,3,3
+Tibet,LKA,Sri Lanka,3,3
+Tibet,MAC,Macao,3,3
+Tunis,TUN,Tunisia,95,86
+Tunis,DZA,Algeria,7,6
+Tunis,LBY,Libya,6,6
+Tunis,MAR,Morocco,3,3
+USSR,AGO,Angola,3,3
+Yugoslavia,BIH,Bosnia and Herzegovina,9,8
+Yugoslavia,MNE,Montenegro,6,6
+Yugoslavia,ALB,Albania,5,5
+Yugoslavia,HUN,Hungary,5,5
+Yugoslavia,SRB,Serbia,5,5
+Yugoslavia,SVK,Slovakia,3,3
+Yugoslavia,SVN,Slovenia,3,3
+Zanzibar,COM,Comoros,23,22
+Zanzibar,TZA,Tanzania,10,10
+Zanzibar,SYC,Seychelles,10,10
+Zanzibar,DJI,Djibouti,8,7
+Zanzibar,ZWE,Zimbabwe,7,7
+Zanzibar,MOZ,Mozambique,6,6
+Zanzibar,BWA,Botswana,5,5
+Zanzibar,MYT,Mayotte,5,5
+Zanzibar,MWI,Malawi,4,4
+Zanzibar,UGA,Uganda,3,3
+Zanzibar,BDI,Burundi,3,3
+Zanzibar,MUS,Mauritius,3,3
+Zanzibar,STP,São Tomé and Príncipe,3,3
+Zanzibar,BEN,Benin,3,3

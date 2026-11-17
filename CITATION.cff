@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and link to https://mapguesser.fr/en"
+type: dataset
+title: "MapGuesser geography answers"
+abstract: "Aggregated answers from MapGuesser, a geography game where players type the name of a country highlighted on a world map: failure rates per country, confusion pairs, and non-country places typed instead."
+authors:
+  - family-names: Bonefons
+    given-names: Alexandre
+    email: contact@mapguesser.fr
+url: "https://mapguesser.fr/en"
+license: CC-BY-4.0
+version: "2026.11"
+date-released: "2026-11-17"
+keywords:
+  - geography
+  - quiz
+  - countries
+  - map literacy
+  - education

@@ -1,0 +1,255 @@
+code,name_en,name_fr,continent_en,un_member
+ABW,Aruba,Aruba,North America,0
+AFG,Afghanistan,Afghanistan,Asia,1
+AGO,Angola,Angola,Africa,1
+AIA,Anguilla,Anguilla,North America,0
+ALA,Aland Islands,Îles d'Åland,Europe,0
+ALB,Albania,Albanie,Europe,1
+AND,Andorra,Andorre,Europe,1
+ARE,United Arab Emirates,Émirats Arabes Unis,Asia,1
+ARG,Argentina,Argentine,South America,1
+ARM,Armenia,Arménie,Asia,1
+ASM,American Samoa,Samoa américaines,Oceania,0
+ATA,Antarctica,Antarctique,Antarctica,0
+ATF,French Southern Territories,Terres australes françaises,Antarctica,0
+ATG,Antigua and Barbuda,Antigua-et-Barbuda,North America,1
+AUS,Australia,Australie,Oceania,1
+AUT,Austria,Autriche,Europe,1
+AZE,Azerbaijan,Azerbaïdjan,Asia,1
+BDI,Burundi,Burundi,Africa,1
+BEL,Belgium,Belgique,Europe,1
+BEN,Benin,Bénin,Africa,1
+BES,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius et Saba",North America,0
+BFA,Burkina Faso,Burkina Faso,Africa,1
+BGD,Bangladesh,Bangladesh,Asia,1
+BGR,Bulgaria,Bulgarie,Europe,1
+BHR,Bahrain,Bahreïn,Asia,1
+BHS,Bahamas,Bahamas,North America,1
+BIH,Bosnia and Herzegovina,Bosnie-Herzégovine,Europe,1
+BLM,Saint Barthélemy,Saint-Barthélemy,North America,0
+BLR,Belarus,Biélorussie,Europe,1
+BLZ,Belize,Belize,North America,1
+BMU,Bermuda,Bermudes,North America,0
+BOL,Bolivia,Bolivie,South America,1
+BRA,Brazil,Brésil,South America,1
+BRB,Barbados,Barbade,North America,1
+BRN,Brunei,Brunei,Asia,1
+BTN,Bhutan,Bhoutan,Asia,1
+BVT,Bouvet Island,Île Bouvet,Antarctica,0
+BWA,Botswana,Botswana,Africa,1
+CAF,Central African Republic,République Centrafricaine,Africa,1
+CAN,Canada,Canada,North America,1
+CCK,Cocos Islands,Îles Cocos,Asia,0
+CHE,Switzerland,Suisse,Europe,1
+CHL,Chile,Chili,South America,1
+CHN,China,Chine,Asia,1
+CIV,Ivory Coast,Côte d'Ivoire,Africa,1
+CMR,Cameroon,Cameroun,Africa,1
+COD,Democratic Republic of the Congo,République Démocratique du Congo,Africa,1
+COG,Congo,Congo,Africa,1
+COK,Cook Islands,Îles Cook,Oceania,0
+COL,Colombia,Colombie,South America,1
+COM,Comoros,Comores,Africa,1
+CPV,Cape Verde,Cap-Vert,Africa,1
+CRI,Costa Rica,Costa Rica,North America,1
+CUB,Cuba,Cuba,North America,1
+CUW,Curaçao,Curaçao,North America,0
+CXR,Christmas Island,Île Christmas,Asia,0
+CYM,Cayman Islands,Îles Caïmans,North America,0
+CYP,Cyprus,Chypre,Europe,1
+CZE,Czechia,République Tchèque,Europe,1
+DEU,Germany,Allemagne,Europe,1
+DJI,Djibouti,Djibouti,Africa,1
+DMA,Dominica,Dominique,North America,1
+DNK,Denmark,Danemark,Europe,1
+DOM,Dominican Republic,République Dominicaine,North America,1
+DZA,Algeria,Algérie,Africa,1
+ECU,Ecuador,Équateur,South America,1
+EGY,Egypt,Égypte,Africa,1
+ENG,England,Angleterre,Europe,0
+ERI,Eritrea,Érythrée,Africa,1
+ESH,Western Sahara,Sahara Occidental,Africa,0
+ESP,Spain,Espagne,Europe,1
+EST,Estonia,Estonie,Europe,1
+ETH,Ethiopia,Éthiopie,Africa,1
+FIN,Finland,Finlande,Europe,1
+FJI,Fiji,Fidji,Oceania,1
+FLK,Falkland Islands,Îles Malouines,South America,0
+FRA,France,France,Europe,1
+FRO,Faroe Islands,Îles Féroé,Europe,0
+FSM,Micronesia,Micronésie,Oceania,1
+GAB,Gabon,Gabon,Africa,1
+GBR,United Kingdom,Royaume-Uni,Europe,1
+GEO,Georgia,Géorgie,Asia,1
+GGY,Guernsey,Guernesey,Europe,0
+GHA,Ghana,Ghana,Africa,1
+GIB,Gibraltar,Gibraltar,Europe,0
+GIN,Guinea,Guinée,Africa,1
+GLP,Guadeloupe,Guadeloupe,North America,0
+GMB,Gambia,Gambie,Africa,1
+GNB,Guinea-Bissau,Guinée-Bissau,Africa,1
+GNQ,Equatorial Guinea,Guinée Équatoriale,Africa,1
+GRC,Greece,Grèce,Europe,1
+GRD,Grenada,Grenade,North America,1
+GRL,Greenland,Groenland,North America,0
+GTM,Guatemala,Guatémala,North America,1
+GUF,French Guiana,Guyane Française,South America,0
+GUM,Guam,Guam,Oceania,0
+GUY,Guyana,Guyana,South America,1
+HKG,Hong Kong,Hong Kong,Asia,0
+HMD,Heard and McDonald Islands,Îles Heard-et-MacDonald,Antarctica,0
+HND,Honduras,Honduras,North America,1
+HRV,Croatia,Croatie,Europe,1
+HTI,Haiti,Haïti,North America,1
+HUN,Hungary,Hongrie,Europe,1
+IDN,Indonesia,Indonésie,Asia,1
+IMN,Isle of Man,Île de Man,Europe,0
+IND,India,Inde,Asia,1
+IOT,British Indian Ocean Territory,Territoire Britannique de l'Océan Indien,Asia,0
+IRL,Ireland,Irlande,Europe,1
+IRN,Iran,Iran,Asia,1
+IRQ,Iraq,Irak,Asia,1
+ISL,Iceland,Islande,Europe,1
+ISR,Israel,Israël,Asia,1
+ITA,Italy,Italie,Europe,1
+JAM,Jamaica,Jamaïque,North America,1
+JEY,Jersey,Jersey,Europe,0
+JOR,Jordan,Jordanie,Asia,1
+JPN,Japan,Japon,Asia,1
+KAZ,Kazakhstan,Kazakhstan,Asia,1
+KEN,Kenya,Kenya,Africa,1
+KGZ,Kyrgyzstan,Kirghizistan,Asia,1
+KHM,Cambodia,Cambodge,Asia,1
+KIR,Kiribati,Kiribati,Oceania,1
+KNA,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,North America,1
+KOR,South Korea,Corée du Sud,Asia,1
+KWT,Kuwait,Koweït,Asia,1
+LAO,Laos,Laos,Asia,1
+LBN,Lebanon,Liban,Asia,1
+LBR,Liberia,Liberia,Africa,1
+LBY,Libya,Libye,Africa,1
+LCA,Saint Lucia,Sainte-Lucie,North America,1
+LIE,Liechtenstein,Liechtenstein,Europe,1
+LKA,Sri Lanka,Sri Lanka,Asia,1
+LSO,Lesotho,Lesotho,Africa,1
+LTU,Lithuania,Lituanie,Europe,1
+LUX,Luxembourg,Luxembourg,Europe,1
+LVA,Latvia,Lettonie,Europe,1
+MAC,Macao,Macao,Asia,0
+MAF,Saint Martin,Saint-Martin,North America,0
+MAR,Morocco,Maroc,Africa,1
+MCO,Monaco,Monaco,Europe,1
+MDA,Moldova,Moldavie,Europe,1
+MDG,Madagascar,Madagascar,Africa,1
+MDV,Maldives,Maldives,Asia,1
+MEX,Mexico,Mexique,North America,1
+MHL,Marshall Islands,Îles Marshall,Oceania,1
+MKD,North Macedonia,Macédoine du Nord,Europe,1
+MLI,Mali,Mali,Africa,1
+MLT,Malta,Malte,Europe,1
+MMR,Myanmar,Birmanie,Asia,1
+MNE,Montenegro,Monténégro,Europe,1
+MNG,Mongolia,Mongolie,Asia,1
+MNP,Northern Mariana Islands,Îles Mariannes du Nord,Oceania,0
+MOZ,Mozambique,Mozambique,Africa,1
+MRT,Mauritania,Mauritanie,Africa,1
+MSR,Montserrat,Montserrat,North America,0
+MTQ,Martinique,Martinique,North America,0
+MUS,Mauritius,Île Maurice,Africa,1
+MWI,Malawi,Malawi,Africa,1
+MYS,Malaysia,Malaisie,Asia,1
+MYT,Mayotte,Mayotte,Africa,0
+NAM,Namibia,Namibie,Africa,1
+NCL,New Caledonia,Nouvelle-Calédonie,Oceania,0
+NER,Niger,Niger,Africa,1
+NFK,Norfolk Island,Île Norfolk,Oceania,0
+NGA,Nigeria,Nigéria,Africa,1
+NIC,Nicaragua,Nicaragua,North America,1
+NIR,Northern Ireland,Irlande du Nord,Europe,0
+NIU,Niue,Niue,Oceania,0
+NLD,Netherlands,Pays-Bas,Europe,1
+NOR,Norway,Norvège,Europe,1
+NPL,Nepal,Népal,Asia,1
+NRU,Nauru,Nauru,Oceania,1
+NZL,New Zealand,Nouvelle-Zélande,Oceania,1
+OMN,Oman,Oman,Asia,1
+PAK,Pakistan,Pakistan,Asia,1
+PAN,Panama,Panama,North America,1
+PCN,Pitcairn,Îles Pitcairn,Oceania,0
+PER,Peru,Pérou,South America,1
+PHL,Philippines,Philippines,Asia,1
+PLW,Palau,Palaos,Oceania,1
+PNG,Papua New Guinea,Papouasie-Nouvelle-Guinée,Oceania,1
+POL,Poland,Pologne,Europe,1
+PRI,Puerto Rico,Porto Rico,North America,0
+PRK,North Korea,Corée du Nord,Asia,1
+PRT,Portugal,Portugal,Europe,1
+PRY,Paraguay,Paraguay,South America,1
+PSE,Palestine,Palestine,Asia,0
+PYF,French Polynesia,Polynésie Française,Oceania,0
+QAT,Qatar,Qatar,Asia,1
+REU,Reunion,La Réunion,Africa,0
+ROU,Romania,Roumanie,Europe,1
+RUS,Russia,Russie,"Europe,Asia",1
+RWA,Rwanda,Rwanda,Africa,1
+SAU,Saudi Arabia,Arabie Saoudite,Asia,1
+SCT,Scotland,Écosse,Europe,0
+SDN,Sudan,Soudan,Africa,1
+SEN,Senegal,Sénégal,Africa,1
+SGP,Singapore,Singapour,Asia,1
+SGS,South Georgia and the South Sandwich Islands,Géorgie du Sud-et-les Îles Sandwich du Sud,Antarctica,0
+SHN,Saint Helena,Sainte-Hélène,Africa,0
+SJM,Svalbard and Jan Mayen,Svalbard et Jan Mayen,Europe,0
+SLB,Solomon Islands,Îles Salomon,Oceania,1
+SLE,Sierra Leone,Sierra Leone,Africa,1
+SLV,El Salvador,El Salvador,North America,1
+SMR,San Marino,Saint-Marin,Europe,1
+SOM,Somalia,Somalie,Africa,1
+SPM,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,North America,0
+SRB,Serbia,Serbie,Europe,1
+SSD,South Sudan,Soudan du Sud,Africa,1
+STP,São Tomé and Príncipe,São Tomé-et-Príncipe,Africa,1
+SUR,Suriname,Suriname,South America,1
+SVK,Slovakia,Slovaquie,Europe,1
+SVN,Slovenia,Slovénie,Europe,1
+SWE,Sweden,Suède,Europe,1
+SWZ,Eswatini,Eswatini,Africa,1
+SXM,Sint Maarten,Sint Maarten,North America,0
+SYC,Seychelles,Seychelles,Africa,1
+SYR,Syria,Syrie,Asia,1
+TCA,Turks and Caicos Islands,Îles Turques-et-Caïques,North America,0
+TCD,Chad,Tchad,Africa,1
+TGO,Togo,Togo,Africa,1
+THA,Thailand,Thaïlande,Asia,1
+TJK,Tajikistan,Tadjikistan,Asia,1
+TKL,Tokelau,Tokélaou,Oceania,0
+TKM,Turkmenistan,Turkménistan,Asia,1
+TLS,Timor-Leste,Timor Oriental,Asia,1
+TON,Tonga,Tonga,Oceania,1
+TTO,Trinidad and Tobago,Trinité-et-Tobago,North America,1
+TUN,Tunisia,Tunisie,Africa,1
+TUR,Turkey,Turquie,"Europe,Asia",1
+TUV,Tuvalu,Tuvalu,Oceania,1
+TWN,Taiwan,Taïwan,Asia,0
+TZA,Tanzania,Tanzanie,Africa,1
+UGA,Uganda,Ouganda,Africa,1
+UKR,Ukraine,Ukraine,Europe,1
+UMI,U.S. Minor Outlying Islands,Îles mineures éloignées des États-Unis,Oceania,0
+URY,Uruguay,Uruguay,South America,1
+USA,United States,États-Unis,North America,1
+UZB,Uzbekistan,Ouzbékistan,Asia,1
+VAT,Vatican City,Vatican,Europe,0
+VCT,Saint Vincent and the Grenadines,Saint-Vincent-et-les-Grenadines,North America,1
+VEN,Venezuela,Venezuela,South America,1
+VGB,British Virgin Islands,Îles Vierges britanniques,North America,0
+VIR,U.S. Virgin Islands,Îles Vierges des États-Unis,North America,0
+VNM,Vietnam,Vietnam,Asia,1
+VUT,Vanuatu,Vanuatu,Oceania,1
+WLF,Wallis and Futuna,Wallis-et-Futuna,Oceania,0
+WLS,Wales,Pays de Galles,Europe,0
+WSM,Samoa,Samoa,Oceania,1
+XKX,Kosovo,Kosovo,Europe,0
+YEM,Yemen,Yémen,Asia,1
+ZAF,South Africa,Afrique du Sud,Africa,1
+ZMB,Zambia,Zambie,Africa,1
+ZWE,Zimbabwe,Zimbabwe,Africa,1
