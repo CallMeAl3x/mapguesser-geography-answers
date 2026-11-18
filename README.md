@@ -4,7 +4,7 @@ Aggregated answers from [MapGuesser](https://mapguesser.fr/en), a free geography
 
 **819,720 rounds · 1,441,540 answers · 9,238 players · 30 Jan 2026 to 17 Nov 2026**
 
-Also on Kaggle: [What People Type When They Can't Name a Country](https://www.kaggle.com/datasets/alexandrebonefons/what-people-type-when-they-cant-name-a-country)
+Also on Kaggle: [What People Type When They Can't Name a Country](https://www.kaggle.com/datasets/alexandrebonefons/what-people-type-when-they-cant-name-a-country), with a [quick-tour notebook](notebooks/quick-tour.ipynb)
 
 Write-ups based on this data:
 
